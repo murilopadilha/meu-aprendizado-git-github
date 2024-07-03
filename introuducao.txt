@@ -1,0 +1,13 @@
+No curso de Git e GitHub, aprendi uma série de habilidades essenciais para o controle de versão e colaboração em projetos de desenvolvimento de software. Inicialmente, adquiri conhecimento sobre o funcionamento do Git, uma ferramenta fundamental para o controle de versão distribuído. Aprendi a criar novos repositórios locais, entender o ciclo de vida dos arquivos (untracked, staged e committed) e realizar commits, que são snapshots das alterações feitas nos arquivos.
+
+Além disso, desenvolvi competências para visualizar logs de commits, o que permite revisar o histórico de alterações em um projeto. Aprendi a visualizar diferenças entre versões de arquivos, o que é crucial para entender as mudanças feitas ao longo do tempo. Também explorei técnicas para desfazer alterações, revertendo para versões anteriores quando necessário.
+
+Um dos conceitos mais importantes que aprendi foram os branches (ramificações). Compreendi como criar e gerenciar branches para desenvolver novas funcionalidades ou corrigir problemas sem interferir no código principal do projeto. A técnica de merge também foi abordada, permitindo unir diferentes branches de volta ao branch principal (geralmente o master ou main).
+
+Além das operações locais, aprendi a interagir com repositórios remotos no GitHub. Isso inclui baixar (ou clonar) repositórios existentes para o meu ambiente local, enviar (push) as minhas alterações para o GitHub e sincronizar (pull) atualizações feitas por outros colaboradores.
+
+No contexto prático de desenvolvimento, aprendi a ignorar arquivos e diretórios específicos usando o arquivo .gitignore, essencial para evitar o rastreamento de arquivos desnecessários, como arquivos temporários ou configurações locais.
+
+Finalmente, explorei como criar e gerenciar um repositório online no GitHub, um serviço amplamente utilizado para hospedar projetos Git de forma acessível e colaborativa. Isso inclui configurar permissões de acesso, gerenciar problemas (issues) e integrar ferramentas adicionais como integração contínua (CI) e automação de fluxos de trabalho.
+
+Em resumo, o curso proporcionou uma compreensão abrangente de Git e GitHub, capacitando-me a trabalhar de forma eficaz em equipes de desenvolvimento e contribuir para projetos de software de maneira organizada e colaborativa.
